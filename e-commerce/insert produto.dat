@@ -1,0 +1,8 @@
+INSERT INTO public.produto VALUES (2, 'Cama', 1200, 6, 2);
+INSERT INTO public.produto VALUES (3, 'Pia', 1700, 2, 3);
+INSERT INTO public.produto VALUES (1, 'Mesa', 2500, 3, 1);
+INSERT INTO public.produto VALUES (4, 'Sofá', 3600, 7, 4);
+INSERT INTO public.produto VALUES (5, 'Cadeira', 800, 1, 5);
+INSERT INTO public.produto VALUES (6, 'Lavadoura', 2800, 7, 6);
+
+

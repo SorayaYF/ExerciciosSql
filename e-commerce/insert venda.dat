@@ -1,0 +1,6 @@
+INSERT INTO public.venda VALUES (1, '20023-06-12', 1, 1, 2);
+INSERT INTO public.venda VALUES (2, '20023-06-12', 1, 2, 2);
+INSERT INTO public.venda VALUES (3, '20023-06-12', 2, 5, 1);
+INSERT INTO public.venda VALUES (4, '20023-06-12', 2, 3, 2);
+
+

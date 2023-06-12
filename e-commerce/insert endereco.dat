@@ -1,0 +1,4 @@
+INSERT INTO public.endereco VALUES (1, 'Rui Barbosa', 'Centro', 1);
+INSERT INTO public.endereco VALUES (2, 'Vinte e Dois de Novembro', 'Passo das Pedras', 2);
+
+

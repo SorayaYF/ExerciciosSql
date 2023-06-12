@@ -1,0 +1,5 @@
+INSERT INTO public.uf VALUES (1, 'SC');
+INSERT INTO public.uf VALUES (2, 'RS');
+INSERT INTO public.uf VALUES (3, 'RJ');
+
+

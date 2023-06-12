@@ -1,0 +1,5 @@
+INSERT INTO public.cidade VALUES (1, 1, 'Tubarão');
+INSERT INTO public.cidade VALUES (2, 2, 'Porto Alegre');
+INSERT INTO public.cidade VALUES (3, 3, 'Rio de Janeiro');
+
+

@@ -1,0 +1,12 @@
+INSERT INTO public.categoria VALUES (1, 'Sala de Jantar');
+INSERT INTO public.categoria VALUES (2, 'Quarto');
+INSERT INTO public.categoria VALUES (3, 'Banheiro');
+INSERT INTO public.categoria VALUES (4, 'Sala de estar');
+INSERT INTO public.categoria VALUES (5, 'Área da piscina');
+INSERT INTO public.categoria VALUES (6, 'Lavanderia');
+INSERT INTO public.categoria VALUES (7, 'Escritório');
+INSERT INTO public.categoria VALUES (8, 'Jardim');
+INSERT INTO public.categoria VALUES (9, 'Hall de Entrada');
+INSERT INTO public.categoria VALUES (10, 'Bar');
+
+

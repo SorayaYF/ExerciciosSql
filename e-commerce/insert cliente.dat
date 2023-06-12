@@ -1,0 +1,4 @@
+INSERT INTO public.cliente VALUES (1, 'Pedro', 'M', '2000-06-12', '+55 (48) 99190-2659', 1);
+INSERT INTO public.cliente VALUES (2, 'Maria', 'F', '2004-12-06', '+55 (48) 92659-9190', 2);
+
+
